@@ -1,0 +1,12 @@
+threads=16
+num_channels=8
+update_func=3
+read_my_writes=0
+random_seed=123456789
+sharding_policy=3
+thread_cache_threshold=0.01
+slack=0
+learning_rate=0.03
+data=/users/hengganc/data/mf_data/netflix.dat.list.gl.perm.partbin512
+hostfile=scripts/mf/machines
+iters=10

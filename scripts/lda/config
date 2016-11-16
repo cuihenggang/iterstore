@@ -1,0 +1,9 @@
+threads=16
+num_channels=8
+read_my_writes=1
+sharding_policy=3
+thread_cache_threshold=0.01
+slack=0
+data=PATH_TO_LDA_DATA
+hostfile=scripts/lda/machines
+iters=10
